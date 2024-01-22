@@ -3,8 +3,8 @@ All Weekly Task Answers for Coding One
 
 Includes the following Python projects:
 
-Dice Roll.py
-fizzbuzz.py
+1) Dice Roll.py
+2) fizzbuzz.py
 week1-1 (Even Odd Number Checker).py
 week1-2 (Guessing Game).py
 week2-1 (Sum Of 3 Numbers).py
