@@ -22,3 +22,12 @@ Includes the following Python projects:
 17) week7-2 (Spirograph).py
 18) week7-3 (Random Walker).py
 19) week8 - (Levenshtein Spell Checker).py
+
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Coding One: Introduction to Creative Computing and Coding Practice
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
